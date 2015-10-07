@@ -1,4 +1,4 @@
 # CirclesFromLines
-Fun algorithym I thought of and coded
+Fun algorithm I thought of and coded
 
-Program opens a frame with a panel, then paints lines that dont intersect an invisable circle at the middle
+Program opens a frame with a panel, then paints lines tangent to an invisible circle at the middle
